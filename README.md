@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KishanDalal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me on email 
+- 👋 Hi, I’m @KishanDalal 
+- 👀 I’m a coder!
+- 🌱 I’m currently learning new things! Yay!
+- 💞️ I’m looking to collaborate on any projects. 
+- 📫 How to reach me on email - > ikishandalal@gmail.com
 
 <!---
 KishanDalal/KishanDalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
