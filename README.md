@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KishanDalal 
-- 👀 I’m a coder!
-- 🌱 I’m currently learning new things! Yay!
+- 👀 I’m a Software Developer!
 - 💞️ I’m looking to collaborate on any projects. 
 - 📫 How to reach me on email - > ikishandalal@gmail.com
 
